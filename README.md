@@ -1,4 +1,5 @@
-# DSC-640-Summer-2020-Course-Project
+# DSC 640 Data Visualization Final Project
+# Abstract
 Project Information  During the course, you will be working on a 5 small data visualization projects. You will be given a scenario and a dataset – you have the choice of using the provided dataset and scenario or coming up with your own scenario and dataset and fulfilling the requirements for each phase of the assignment – if you choose your own scenario, it needs to be approved by your Professor in Weeks 1 &amp; 2. Over the course of 10 weeks you will submit:      
 
   Dashboard (Weeks 1 &amp; 2)     
@@ -6,9 +7,18 @@ Project Information  During the course, you will be working on a 5 small data vi
   Blog Post (Weeks 5 &amp; 6)     
   Infographic (Weeks 7 &amp; 8)     
   Video Presentation (Weeks 9 &amp; 10) 
-
+  
 The scenario:  Due to recent unfortunate airline crashes, the media has been promoting statistics stating air is no longer a safe way to travel. The news and media outlets have been bombarding the public with reports and figures about the trends of airline safety and that things are not looking good. What was previously thought as the safest way to travel, especially when compared to automobiles, is now being presented as one of the most dangerous to the public. But are any of these claims based on facts?  You work for an airline on the data science team as a data analyst and are a resident data visualization expert. You have been tasked with helping multiple groups in the organization combat this negative publicity and help tell the airline's side of the story. There is a fear internally about what this type of media coverage will do to airline sales and how it could impact the future of the company. Not only do they need you to help create some internal communications, but you will also be tasked with what is published to the public and the media.  
+  
+# Preview
 
+![Preview of the infographic created from this project.](https://github.com/micgonzalez/DSC640-Summer-2020-Course-Project/blob/master/dsc640_infographic.png)
+
+This infographic was created from this project to convey my findings to the public.
+
+This project has many interesting aspects and you can review them in this project's repository.
+
+# Findings
 Project Task 1:  Dashboard  Your first task is to create an internal dashboard for your peers and data science management team that outlines the facts – what are the stats and what are the trends? Is there any supplemental data that you can use to support that air travel is still in fact the safest? Is there anything politically going on that would cause this type of media attention to be at a peak – remember, this is for an internal review by your peers and management – and will likely spark a lot of discussion for how you approach the next level of discussion with your executive leadership team. Is there anything to show sales are down or are headed that way? Do the safety incidents appear to be in a specific geographic area or by a specific airline every time? Do some analysis of the data you have and look for other sources to see what you can find to help inform your internal team.  
 
 Project Task 2:  Executive Summary  Your dashboard was well received by the internal team and while some of the information was news to everyone, the entire consensus was that it is ready to be prepped for an executive review, so the external communications can be started. Your next task is to prepare an executive summary summarizing your findings and telling the story of what you found. This can be done either in PowerPoint, Prezi, Spark, etc.  Remember your audience – these will be senior leaders that care about the portrayal of the industry and their airline specifically. They also want to make sure they are being ethical and sharing information that isn’t misleading. This presentation will set the tone for how the media is addressed going forward with the information and facts that need to be shared. Also remember that this audience regularly speaks with shareholders – so any information you can find to help predict future risks and the position of the company will be beneficial to the conversation. For example, if you found information that indicates where future sales will be impacted or where there are safety risks – this is important information to raise to this group.  
@@ -17,4 +27,10 @@ Project Task 3:  Blog Post  Now that you have given your presentation to your ex
 
 Project Task 4:  Infographic  You’ve successfully gotten your blog post out, which has started to be shared with local news outlets and you have seen it shared on various platforms. While somewhat controversial in the data visualization world, you have been diligently working on an infographic that has nice clear, creative visuals that help articulate the message and inform the public what the real story is! This audience is likely standing in line and would see this infographic on a wall or is scrolling on their phone quickly – so grabbing their attention is key and making sure the visualizations makes sense is the only way you can change their opinion or inform them of what is really going on.  
 
-Project Task 5:  Video Presentation  Your final task to help spread the word on the truth about what you have found and represent your Airline via a short 3-minute presentation (recorded) that combines the 3-minute story and the Big Idea from Storytelling with Data in Chapter 1. The premise of the 3-minute story, is that you must find a way to convey everything you need to in that short timeframe, which you do using any of the previous media that you have created or something brand new. You can choose to present a PowerPoint, just talk live in front of a camera presenting the facts or talk while presenting your Dashboard, etc. You could also create a moving visualization like some of the time series visualizations we have seen Edward Tufte create or Hans Rosling’s for example: (https://youtu.be/jbkSRLYSojo)
+Project Task 5:  Video Presentation  Your final task to help spread the word on the truth about what you have found and represent your Airline via a short 3-minute presentation (recorded) that combines the 3-minute story and the Big Idea from Storytelling with Data in Chapter 1. The premise of the 3-minute story, is that you must find a way to convey everything you need to in that short timeframe, which you do using any of the previous media that you have created or something brand new. You can choose to present a PowerPoint, just talk live in front of a camera presenting the facts or talk while presenting your Dashboard, etc. 
+
+# Challenges
+This project was broken down into five tasks that were explained in the findings section. Each task had their own challenges that required me to perform many different functions to complete them. The infographic task of this project, which combined the previous tasks into one visual representation to convey my findings in one place.   
+
+# Conclusion
+Completing the whole project gave me a better understanding of starting a project with a dashboard then move on to conveying the dashboard in words to others. After, you create a blog to get the information found to as many people as possible, which has some challenges in itself. Once that is done, it is time to condense that information into an inforgraphic that conveys the best parts of the findings in a visual way. Last part of this project is the video presentation, which was to cut down the information into a three minute video that just includes the most informative areas of the data.
