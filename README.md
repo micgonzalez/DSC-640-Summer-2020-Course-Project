@@ -1,12 +1,12 @@
 # DSC 640 Data Visualization Final Project
 # Abstract
-Project Information  During the course, you will be working on a 5 small data visualization projects. You will be given a scenario and a dataset – you have the choice of using the provided dataset and scenario or coming up with your own scenario and dataset and fulfilling the requirements for each phase of the assignment – if you choose your own scenario, it needs to be approved by your Professor in Weeks 1 &amp; 2. Over the course of 10 weeks you will submit:      
+Project Information  During the course, you will be working on a 5 small data visualization projects. You will be given a scenario and a dataset – you have the choice of using the provided dataset and scenario or coming up with your own scenario and dataset and fulfilling the requirements for each phase of the assignment. Over the course of 10 weeks I had to create these items:      
 
-  Dashboard (Weeks 1 &amp; 2)     
-  Executive Summary (Weeks 3 &amp; 4)     
-  Blog Post (Weeks 5 &amp; 6)     
-  Infographic (Weeks 7 &amp; 8)     
-  Video Presentation (Weeks 9 &amp; 10) 
+  Dashboard    
+  Executive Summary      
+  Blog Post     
+  Infographic     
+  Video Presentation
   
 The scenario:  Due to recent unfortunate airline crashes, the media has been promoting statistics stating air is no longer a safe way to travel. The news and media outlets have been bombarding the public with reports and figures about the trends of airline safety and that things are not looking good. What was previously thought as the safest way to travel, especially when compared to automobiles, is now being presented as one of the most dangerous to the public. But are any of these claims based on facts?  You work for an airline on the data science team as a data analyst and are a resident data visualization expert. You have been tasked with helping multiple groups in the organization combat this negative publicity and help tell the airline's side of the story. There is a fear internally about what this type of media coverage will do to airline sales and how it could impact the future of the company. Not only do they need you to help create some internal communications, but you will also be tasked with what is published to the public and the media.  
   
